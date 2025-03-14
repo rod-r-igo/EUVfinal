@@ -1,0 +1,27 @@
+body{
+    background-color:gray;
+   }
+   h1{ 
+       text-align: center;  
+       background-color: rgb(12, 1, 1);
+       color: white;
+       font-style: italic;
+   }
+   h2{
+       text-align: center;
+       background-color: rgb(241, 237, 237);  
+       color: rgb(13, 0, 0);
+       font-style: italic;
+   h3{
+       text-align: center;  
+       color: white;
+       font-style: italic;
+   }
+   }
+   img{
+       width: 500px;
+       height: 300px;
+   }
+   div{
+       text-align: center;
+   }
